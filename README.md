@@ -1,7 +1,7 @@
 # Windows
 …or create a new repository on the command line
 ```
-echo "# Mysql" >> README.md
+echo "# Windows" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
